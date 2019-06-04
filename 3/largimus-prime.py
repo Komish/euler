@@ -7,8 +7,6 @@ Calculate the largest prime of an input.
 
 import sys
 
-#primes = [1, 2, 3, 5]
-
 def get_factor(value):  
     prime_state = True
     factor = value
